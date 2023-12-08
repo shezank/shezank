@@ -5,6 +5,11 @@
 <img src="https://img.freepik.com/free-vector/gradient-devops-illustration_23-2149379660.jpg" />
 </a>
 
+## :eyes: Current overview
+?time_range=three_months&theme=ferns
+<div align="left">
+<a href="https://app.daily.dev/mir"><img align="right" src="https://api.githubtrends.io/user/svg/shezank/repos" width="200" alt="Shezan Khan's Trandes"/></a>
+</div>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
