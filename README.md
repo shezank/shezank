@@ -19,7 +19,7 @@
 </p>
 
 ## :eyes: Current overview
-?time_range=three_months&theme=ferns
+
 <div align="left">
 <a href=""><img align="right" src="https://api.githubtrends.io/user/svg/shezank/repos" width="200" alt="Shezan Khan's Trandes"/></a>
 </div>
