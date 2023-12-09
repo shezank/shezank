@@ -2,7 +2,7 @@
 ## Welcome To My Github
 
 <a href="https://www.linkedin.com/in/shezankhan">
-<img width='100%' src="https://raw.githubusercontent.com/shezank/shezank/main/ReactJS.png" />
+<img width='100%' src="https://raw.githubusercontent.com/shezank/shezank/main/GITHUB%20BANNAR.png" />
 </a>
 
 ## :computer: Technologies that I know
